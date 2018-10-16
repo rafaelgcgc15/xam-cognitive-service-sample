@@ -95,9 +95,9 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\xam_cognitive\xam_cognitive.csproj">
-      <Project>{112C5E0D-5709-44BA-943B-410716557A71}</Project>
-      <Name>xam_cognitive</Name>
+    <ProjectReference Include="..\xam-cognitive\xam-cognitive.csproj">
+      <Project>{b59b66f1-9944-463d-8d6a-5de415c72c19}</Project>
+      <Name>xam-cognitive</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
